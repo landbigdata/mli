@@ -17,7 +17,7 @@ slogan: 'Personal website'
 description: ' Mengmeng Li is currently a PhD Researcher at Institute for Environmental Studies, VU University Amsterdam.'
 
 # Copyright
-credits: '<p> Website maintained by <a href="https://landbigdata.github.io/cscproject/plugins/pdf-viewer/web/viewer.html?file=../../../pdf/CV_short.pdf" target="_blank>Mengmeng Li</a>.</p>'
+credits: '<p> Website maintained by <a href="https://landbigdata.github.io/cscproject/plugins/pdf-viewer/web/viewer.html?file=../../../pdf/CV_short.pdf" target="_blank">Mengmeng Li</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
