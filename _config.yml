@@ -14,10 +14,12 @@ title: 'Mengmeng Li'
 slogan: 'Personal website'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: '»Mengmeng Li« is currently a PhD Researcher at Institute for Environmental Studies, VU University Amsterdam.'
+description: ' Mengmeng Li is currently a PhD Researcher at Institute for Environmental Studies, VU University Amsterdam.'
 
-# The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+# Copyright
+Copyright © 2021. Mengmeng Li. All rights reserved.
+
+Home Publication Dataset Tool Video Contact
 
 # Main author of the website
 # See > authors.yml
@@ -38,7 +40,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://github.github.io/mli/images'
+urlimg: 'https://landbigdata.github.io/mli/images/'
 
 
 # Logo size is 600x80 pixels
