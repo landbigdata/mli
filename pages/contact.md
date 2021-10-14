@@ -7,5 +7,5 @@ teaser              : "Get in touch with me? Use the contact form."
 permalink           : "/contact/"
 ---
 
-Name: Mengmeng Li
+Name: Mengmeng Li <br/>
 E-mail: mengbfju@126.com
