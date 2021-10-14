@@ -17,7 +17,7 @@ slogan: 'Personal website'
 description: ' Mengmeng Li is currently a PhD Researcher at Institute for Environmental Studies, VU University Amsterdam.'
 
 # Copyright
-credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Maintained by <a href="http://landbigdata.github.io/mli/">Mengmeng Li</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll.</a></p>'
 
 # Main author of the website
 # See > authors.yml
